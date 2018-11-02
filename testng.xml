@@ -1,0 +1,10 @@
+
+
+<suite name="screenahot">
+	<test name="testng Test">
+		<classes>
+			<class name="methods.URLOpenedTocapturetheSCreenshot" />
+		</classes>
+	</test>
+</suite>
+
